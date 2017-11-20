@@ -1,0 +1,265 @@
+[{
+  "meeting": 12323142,
+  "location":"FairField",
+  "races": [{
+    "raceNumber": 1,
+    "competitors": [
+      {"name":"Quinlan Fletcher",
+      "positionNumber":1},
+      {"name":"Cletis Korbin",
+      "positionNumber":2},
+      {"name":"Harlow Bradford",
+      "positionNumber":3},
+      {"name":"Brittani Frankie",
+      "positionNumber":4}
+    ],
+    "closeTime":1511152800009
+  },
+  {
+    "raceNumber": 2,
+    "competitors": [
+      {"name":"Sachie Davey",
+      "positionNumber":1},
+      {"name":"Gwendoline Amery",
+      "positionNumber":2},
+      {"name":"Simon Sherie",
+      "positionNumber":3},
+      {"name":"Cissy Randal",
+      "positionNumber":4}
+    ],
+    "closeTime":1511339776971
+  },
+  {
+    "raceNumber": 3,
+    "competitors": [
+      {"name":"Babs Zane",
+      "positionNumber":1},
+      {"name":"Sharron Katelynn",
+      "positionNumber":2},
+      {"name":"Donovan Georgina",
+      "positionNumber":3},
+      {"name":"Jayden Tamsyn",
+      "positionNumber":4}
+    ],
+    "closeTime":1511419398683
+  },
+  {
+    "raceNumber": 4,
+    "competitors": [
+      {"name":"Dolly Elfreda",
+      "positionNumber":1},
+      {"name":"Jacqueline Fanny",
+      "positionNumber":2},
+      {"name":"Jeffrey Breanne",
+      "positionNumber":3},
+      {"name":"Lysette Charissa",
+      "positionNumber":4}
+    ],
+    "closeTime":1511162184410
+  },
+  {
+    "raceNumber": 5,
+    "competitors": [
+      {"name":"Jaime Lotus",
+      "positionNumber":1},
+      {"name":"Edric Tranter",
+      "positionNumber":2},
+      {"name":"Lexi Vincent",
+      "positionNumber":3},
+      {"name":"Traci Deanna",
+      "positionNumber":4}
+    ],
+    "closeTime":1511405586762
+  },
+  {
+    "raceNumber": 6,
+    "competitors": [
+      {"name":"Mariabella Amelia",
+      "positionNumber":1},
+      {"name":"Tanner Newton",
+      "positionNumber":2},
+      {"name":"Reanna Gaylord",
+      "positionNumber":3},
+      {"name":"Tracie Dayna",
+      "positionNumber":4}
+    ],
+    "closeTime":1511305413275
+  }],
+  "meetingType":"Thoroughbred"
+},{
+  "meeting": 32443312,
+  "location":"MayFair",
+  "races": [{
+    "raceNumber": 1,
+    "competitors": [
+      {"name":"Forrest Delice",
+      "positionNumber":1},
+      {"name":"Sonia Betty",
+      "positionNumber":2},
+      {"name":"Normina Rexanne",
+      "positionNumber":3},
+      {"name":"Konnor Franklin",
+      "positionNumber":4}
+    ],
+    "closeTime":1511254606437
+  },
+  {
+    "raceNumber": 2,
+    "competitors": [
+      {"name":"Brent Paige",
+      "positionNumber":1},
+      {"name":"Luvenia Poppy",
+      "positionNumber":2},
+      {"name":"Orson Kathlyn",
+      "positionNumber":3},
+      {"name":"Rowina Earnestine",
+      "positionNumber":4}
+    ],
+    "closeTime":1511169057201
+  },
+  {
+    "raceNumber": 3,
+    "competitors": [
+      {"name":"Miles Marly",
+      "positionNumber":1},
+      {"name":"Leroi Derryl",
+      "positionNumber":2},
+      {"name":"Travers Storm",
+      "positionNumber":3},
+      {"name":"Karyna Arden",
+      "positionNumber":4}
+    ],
+    "closeTime":1511414502703
+  },
+  {
+    "raceNumber": 4,
+    "competitors": [
+      {"name":"Leland Kaleigh",
+      "positionNumber":1},
+      {"name":"Sonya Corbin",
+      "positionNumber":2},
+      {"name":"Kristen Hollis",
+      "positionNumber":3},
+      {"name":"Tyron Quinlan",
+      "positionNumber":4}
+    ],
+    "closeTime":1511163646100
+  },
+  {
+    "raceNumber": 5,
+    "competitors": [
+      {"name":"Anjelica Earle",
+      "positionNumber":1},
+      {"name":"Norton Clayton",
+      "positionNumber":2},
+      {"name":"Rexanne Norm",
+      "positionNumber":3},
+      {"name":"Quinten Phil",
+      "positionNumber":4}
+    ],
+    "closeTime":1511255338268
+  },
+  {
+    "raceNumber": 6,
+    "competitors": [
+      {"name":"Tresha Violet",
+      "positionNumber":1},
+      {"name":"Aline Brittny",
+      "positionNumber":2},
+      {"name":"Pancras Vivyan",
+      "positionNumber":3},
+      {"name":"Les Tamera",
+      "positionNumber":4}
+    ],
+    "closeTime":1511131193175
+  }],
+  "meetingType":"Greyhound"
+},{
+  "meeting": 34763434,
+  "location":"Bond Street",
+  "races": [{
+    "raceNumber": 1,
+    "competitors": [
+      {"name":"Rebeccanne Normand",
+      "positionNumber":1},
+      {"name":"Chrissie Blaine",
+      "positionNumber":2},
+      {"name":"Sheard Michayla",
+      "positionNumber":3},
+      {"name":"Ford Antonette",
+      "positionNumber":4}
+    ],
+    "closeTime":1511310165941
+  },
+  {
+    "raceNumber": 2,
+    "competitors": [
+      {"name":"Janna Phemie",
+      "positionNumber":1},
+      {"name":"Sidony Thankful",
+      "positionNumber":2},
+      {"name":"Lorayne Walt",
+      "positionNumber":3},
+      {"name":"Amber Inez",
+      "positionNumber":4}
+    ],
+    "closeTime":1511419727023
+  },
+  {
+    "raceNumber": 3,
+    "competitors": [
+      {"name":"Christina Harley",
+      "positionNumber":1},
+      {"name":"Sharalyn Nolene",
+      "positionNumber":2},
+      {"name":"Sage Baldwin",
+      "positionNumber":3},
+      {"name":"Kellie Molly",
+      "positionNumber":4}
+    ],
+    "closeTime":1511411580845
+  },
+  {
+    "raceNumber": 4,
+    "competitors": [
+      {"name":"Gerrard Kim",
+      "positionNumber":1},
+      {"name":"Melany Chip",
+      "positionNumber":2},
+      {"name":"Dayna Katey",
+      "positionNumber":3},
+      {"name":"Esmaralda Clark",
+      "positionNumber":4}
+    ],
+    "closeTime":1511153902140
+  },
+  {
+    "raceNumber": 5,
+    "competitors": [
+      {"name":"Livia Barret",
+      "positionNumber":1},
+      {"name":"Alberta Joanna",
+      "positionNumber":2},
+      {"name":"Pheobe Upton",
+      "positionNumber":3},
+      {"name":"Flanagan Krystle",
+      "positionNumber":4}
+    ],
+    "closeTime":1511129635676
+  },
+  {
+    "raceNumber": 6,
+    "competitors": [
+      {"name":"Louisa Kristen",
+      "positionNumber":1},
+      {"name":"Linnette Branson",
+      "positionNumber":2},
+      {"name":"Coby Kynaston",
+      "positionNumber":3},
+      {"name":"Luanne Alisha",
+      "positionNumber":4}
+    ],
+    "closeTime":1511402227684
+  }],
+  "meetingType":"Harness"
+}]

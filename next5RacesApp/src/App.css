@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+
+.table{width:100%;}
+
+th{
+
+text-align:center;
+
+}
+
+.title{
+color:#d32123;
+text-align: center;
+margin:25px;
+}
+
+
+.raceDetails div{
+
+padding:12px;
+
+}
+
+.raceDetails p{
+
+font-size: 1.6em;
+text-align: left;
+}
+
+.red{
+color:#d32123;
+
+}
+
+
+
+
+
+tr:not(:first-child):hover{
+background-color: #d32123;
+color:#FFF;
+cursor: pointer;
+}
+
+.card{
+  background-color: #d32123;
+      padding: 15px;
+      color: #FFF;
+      margin:10px;
+
+
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
